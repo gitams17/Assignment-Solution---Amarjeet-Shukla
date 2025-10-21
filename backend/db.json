@@ -1,15 +1,33 @@
 {
   "tasks": [
     {
-      "id": 1020,
-      "title": "1",
-      "description": "123",
-      "createdAt": "2025-10-21"
-    },
-    {
       "id": 1021,
       "title": "jsklaj",
       "description": "12345",
+      "createdAt": "2025-10-21"
+    },
+    {
+      "id": 1022,
+      "title": "Complete Assignment",
+      "description": "Complete by 11am",
+      "createdAt": "2025-10-21"
+    },
+    {
+      "id": 1023,
+      "title": "Implement UI",
+      "description": "Design and code the frontend dashboard",
+      "createdAt": "2025-10-21"
+    },
+    {
+      "id": 1024,
+      "title": "Do something",
+      "description": "Do from there",
+      "createdAt": "2025-10-21"
+    },
+    {
+      "id": 1025,
+      "title": "6th task - Updated",
+      "description": "Page will get added. - Updation done",
       "createdAt": "2025-10-21"
     }
   ],
@@ -186,6 +204,73 @@
       "updatedContent": {
         "title": "jsklaj",
         "description": "12345"
+      }
+    },
+    {
+      "id": 21,
+      "timestamp": "2025-10-21T05:34:45.128Z",
+      "action": "Create Task",
+      "taskId": 1022,
+      "updatedContent": {
+        "title": "Complete Assignment",
+        "description": "Complete by 11am"
+      }
+    },
+    {
+      "id": 22,
+      "timestamp": "2025-10-21T05:35:14.979Z",
+      "action": "Create Task",
+      "taskId": 1023,
+      "updatedContent": {
+        "title": "Implement UI",
+        "description": "Design and code the frontend dashboard"
+      }
+    },
+    {
+      "id": 23,
+      "timestamp": "2025-10-21T05:35:30.067Z",
+      "action": "Update Task",
+      "taskId": 1020,
+      "updatedContent": {
+        "title": "5",
+        "description": "12322424"
+      }
+    },
+    {
+      "id": 24,
+      "timestamp": "2025-10-21T05:35:45.908Z",
+      "action": "Create Task",
+      "taskId": 1024,
+      "updatedContent": {
+        "title": "Do something",
+        "description": "Do from there"
+      }
+    },
+    {
+      "id": 25,
+      "timestamp": "2025-10-21T05:36:02.609Z",
+      "action": "Create Task",
+      "taskId": 1025,
+      "updatedContent": {
+        "title": "6th task",
+        "description": "Page will get added."
+      }
+    },
+    {
+      "id": 26,
+      "timestamp": "2025-10-21T05:36:10.342Z",
+      "action": "Delete Task",
+      "taskId": 1020,
+      "updatedContent": null
+    },
+    {
+      "id": 27,
+      "timestamp": "2025-10-21T05:36:56.111Z",
+      "action": "Update Task",
+      "taskId": 1025,
+      "updatedContent": {
+        "title": "6th task - Updated",
+        "description": "Page will get added. - Updation done"
       }
     }
   ]
